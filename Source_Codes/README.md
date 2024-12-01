@@ -17,6 +17,6 @@ Thành viên:
 
 **Bước 1:** Xem phần trả lời các câu hỏi về *Thu thập dữ liệu* trong file `DataCollecting.ipynb`
 
-**Bước 2:** Xem quá trình tiền xử lý dữ liệu trong file `DataExploration.ipynb`, chạy tất cả các cell code để lấy dữ liệu từ link google drive và xử lý file dữ liệu thành file mà nhóm thực hiện phân tích.
+**Bước 2:** Xem quá trình tiền xử lý dữ liệu trong file `DataExploration.ipynb`, chạy tất cả các cell code để thu thập dữ liệu và xử lý file dữ liệu thành file mà nhóm thực hiện phân tích.
 
 **Bước 3:** Mở file `DataAnalysisAndVisualization.ipynb` để chạy code và xem các biểu đồ phân tích tập dữ liệu của nhóm.
